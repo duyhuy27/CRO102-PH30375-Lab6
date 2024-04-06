@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "a title",
+      "age": 100,
+      "email": "email@email.com",
+      "password": "123",
+      "gender": "male"
+    },
+    {
+      "id": "25af",
+      "name": "huy",
+      "age": 18,
+      "email": "duy huy",
+      "password": "123",
+      "gender": "male"
+    },
+    {
+      "id": "8f50",
+      "name": "duy huy",
+      "age": 20,
+      "email": "abc@gmail.com",
+      "password": "123",
+      "gender": "male"
+    },
+    {
+      "id": "8a70",
+      "name": "haha",
+      "age": 21,
+      "email": "haha@gmail.com",
+      "password": "123456",
+      "gender": "male"
+    },
+    {
+      "id": "2944",
+      "name": "haha",
+      "age": 21,
+      "email": "haha@gmail.com",
+      "password": "123456",
+      "gender": "male"
+    }
+  ]
+}
